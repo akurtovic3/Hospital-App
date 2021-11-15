@@ -1,0 +1,51 @@
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\bin\Debug\klinika forma.exe.config
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\bin\Debug\klinika forma.exe
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\bin\Debug\klinika forma.pdb
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\bin\Debug\klinika.dll
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\bin\Debug\klinika.pdb
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Form1.resources
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Properties.Resources.resources
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika forma.csproj.GenerateResource.Cache
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika forma.csproj.CoreCompileInputs.cache
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika forma.exe
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika forma.pdb
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Doktor.resources
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Medicinski_tehnicar.resources
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Pacijent.resources
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Slike.resources
+c:\users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Ispis_kartona.resources
+C:\Users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Izbor_pacijenta.resources
+C:\Users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Raspored_pregleda.resources
+C:\Users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Naplata.resources
+C:\Users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Portir.resources
+C:\Users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Terapija.resources
+C:\Users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Ispis_racuna.resources
+C:\Users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.IspisOrdinacijaCekanje.resources
+C:\Users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Registracija_doktor.resources
+C:\Users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Registracija_medicinskog_tehnicara.resources
+C:\Users\skolasrednje\source\repos\klinika forma\klinika forma\obj\Debug\klinika_forma.Portir___registracija_pacijenta.resources
+E:\klinika forma\klinika forma\bin\Debug\klinika forma.exe.config
+E:\klinika forma\klinika forma\bin\Debug\klinika forma.exe
+E:\klinika forma\klinika forma\bin\Debug\klinika forma.pdb
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Doktor.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Form1.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Ispis_kartona.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Ispis_racuna.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.IspisOrdinacijaCekanje.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Izbor_pacijenta.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Medicinski_tehnicar.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Naplata.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Pacijent.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Portir.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Registracija_doktor.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Registracija_medicinskog_tehnicara.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Portir___registracija_pacijenta.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Slike.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Terapija.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Properties.Resources.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika_forma.Raspored_pregleda.resources
+E:\klinika forma\klinika forma\obj\Debug\klinika forma.csproj.GenerateResource.Cache
+E:\klinika forma\klinika forma\obj\Debug\klinika forma.csproj.CoreCompileInputs.cache
+E:\klinika forma\klinika forma\obj\Debug\klinika forma.exe
+E:\klinika forma\klinika forma\obj\Debug\klinika forma.pdb
+E:\klinika forma\klinika forma\obj\Debug\klinika forma.csprojResolveAssemblyReference.cache
